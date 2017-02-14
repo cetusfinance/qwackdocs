@@ -1,4 +1,4 @@
 #recipe Docs
-Settings[DocsKeys.SourceFiles] = "../src/**/{!bin,!obj,!packages,!*.Tests,}/**/*.cs";
+Settings[DocsKeys.SourceFiles] = "../../qwack/src/**/{!bin,!obj,!packages,!*.Tests,}/**/*.cs";
 Settings[Keys.Host] = "qwack.io";
 Settings[DocsKeys.BaseEditUrl] = "https://github.com/cetusfinance/qwackdocs/tree/master/";
