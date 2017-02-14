@@ -18,11 +18,6 @@ install:
   # Get and unzip the latest version of Wyam
   - ps: Start-FileDownload "https://github.com/Wyamio/Wyam/releases/download/$env:WYAMVERSION/Wyam-$env:WYAMVERSION.zip" -FileName "..\Wyam\Wyam.zip"
   - 7z x ..\Wyam\Wyam.zip -o..\Wyam -r
-
-build_script:
-  - ..\Wyam\wyam --output ..\output
-
-on_success:
   # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
   # See http://www.appveyor.com/docs/how-to/git-push for more info
   - git config --global credential.helper store
@@ -31,6 +26,11 @@ on_success:
   - git config --global user.name $env:op_build_user
   - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
   - git clone https://github.com/cetusfinance/qwack.git ../qwack
+
+build_script:
+  - ..\Wyam\wyam --output ..\output
+
+on_success:
   - git checkout gh-pages
   - git rm -rf .
   - xcopy ..\output . /E
