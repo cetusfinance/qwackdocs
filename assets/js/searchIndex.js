@@ -34,62 +34,6 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
-        content:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:1,
-        title:"ICurve",
-        content:"ICurve",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:2,
-        title:"StrikeType",
-        content:"StrikeType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:3,
-        title:"TrinomialTree",
-        content:"TrinomialTree",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:4,
-        title:"BlackFunctions",
-        content:"BlackFunctions",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:5,
-        title:"Currency",
-        content:"Currency",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:6,
-        title:"OffsetRelativeToType",
-        content:"OffsetRelativeToType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:7,
         title:"Halley",
         content:"Halley",
         description:'',
@@ -97,63 +41,23 @@ var searchModule = function() {
     });
 
     a({
-        id:8,
-        title:"LMEFunctions",
-        content:"LMEFunctions",
+        id:1,
+        title:"FxQouteType",
+        content:"FxQouteType",
         description:'',
         tags:''
     });
 
     a({
-        id:9,
-        title:"CalendarCollection",
-        content:"CalendarCollection",
+        id:2,
+        title:"Currency",
+        content:"Currency",
         description:'',
         tags:''
     });
 
     a({
-        id:10,
-        title:"FundingInstrumentCollection",
-        content:"FundingInstrumentCollection",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:11,
-        title:"OptionType",
-        content:"OptionType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:12,
-        title:"BlockSet",
-        content:"BlockSet",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:13,
-        title:"SobolDirectionNumbers",
-        content:"SobolDirectionNumbers",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:14,
-        title:"NewtonRaphsonMultiCurveSolver",
-        content:"NewtonRaphsonMultiCurveSolver",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:15,
+        id:3,
         title:"Brent",
         content:"Brent",
         description:'',
@@ -161,9 +65,105 @@ var searchModule = function() {
     });
 
     a({
-        id:16,
+        id:4,
+        title:"FloatRateIndex",
+        content:"FloatRateIndex",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:5,
+        title:"ICalendarProvider",
+        content:"ICalendarProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:6,
+        title:"NewtonRaphsonMultiCurveSolverStaged",
+        content:"NewtonRaphsonMultiCurveSolverStaged",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:7,
+        title:"LinearInterpolatorFlatExtrapNoBinSearch",
+        content:"LinearInterpolatorFlatExtrapNoBinSearch",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:8,
+        title:"FundingInstrumentCollection",
+        content:"FundingInstrumentCollection",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:9,
+        title:"NewtonRaphsonMultiCurveSolver",
+        content:"NewtonRaphsonMultiCurveSolver",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:10,
+        title:"DoubleExtensions",
+        content:"DoubleExtensions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:11,
+        title:"SobolDirectionInfo",
+        content:"SobolDirectionInfo",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:12,
+        title:"Newton",
+        content:"Newton",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:13,
+        title:"DateExtensions",
+        content:"DateExtensions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:14,
         title:"ExceptionType",
         content:"ExceptionType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:15,
+        title:"IrSwap",
+        content:"IrSwap",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:16,
+        title:"CalendarsFromJson",
+        content:"CalendarsFromJson",
         description:'',
         tags:''
     });
@@ -178,254 +178,6 @@ var searchModule = function() {
 
     a({
         id:18,
-        title:"Interpolator DType",
-        content:"Interpolator DType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:19,
-        title:"LinearInterpolator",
-        content:"LinearInterpolator",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:20,
-        title:"ITenorDate",
-        content:"ITenorDate",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:21,
-        title:"IInterpolator",
-        content:"IInterpolator",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:22,
-        title:"AverageType",
-        content:"AverageType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:23,
-        title:"RollType",
-        content:"RollType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:24,
-        title:"FloatRateIndex",
-        content:"FloatRateIndex",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:25,
-        title:"LinearInterpolatorFlatExtrapNoBinSearch",
-        content:"LinearInterpolatorFlatExtrapNoBinSearch",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:26,
-        title:"LinearInVarianceInterpolator",
-        content:"LinearInVarianceInterpolator",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:27,
-        title:"GridVolSurface",
-        content:"GridVolSurface",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:28,
-        title:"NewtonRaphsonMultiCurveSolverStaged",
-        content:"NewtonRaphsonMultiCurveSolverStaged",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:29,
-        title:"IrBasisSwap",
-        content:"IrBasisSwap",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:30,
-        title:"InterpolatorFactory",
-        content:"InterpolatorFactory",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:31,
-        title:"MersenneTwister",
-        content:"MersenneTwister",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:32,
-        title:"IrCurve",
-        content:"IrCurve",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:33,
-        title:"Newton",
-        content:"Newton",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:34,
-        title:"RateType",
-        content:"RateType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:35,
-        title:"ConstantVolSurface",
-        content:"ConstantVolSurface",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:36,
-        title:"ExchangeType",
-        content:"ExchangeType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:37,
-        title:"Sobol",
-        content:"Sobol",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:38,
-        title:"PathBlock",
-        content:"PathBlock",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:39,
-        title:"FuturesConvexityUtils",
-        content:"FuturesConvexityUtils",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:40,
-        title:"MonthEnum",
-        content:"MonthEnum",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:41,
-        title:"SwapPayReceiveType",
-        content:"SwapPayReceiveType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:42,
-        title:"DoubleExtensions",
-        content:"DoubleExtensions",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:43,
-        title:"FlowType",
-        content:"FlowType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:44,
-        title:"CashFlowSchedule",
-        content:"CashFlowSchedule",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:45,
-        title:"IVolSurface",
-        content:"IVolSurface",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:46,
-        title:"FraDiscountingType",
-        content:"FraDiscountingType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:47,
-        title:"NewtonRaphsonMultiDimensionalSolver",
-        content:"NewtonRaphsonMultiDimensionalSolver",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:48,
-        title:"ICalendarProvider",
-        content:"ICalendarProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:49,
         title:"ExceptionHelper",
         content:"ExceptionHelper",
         description:'',
@@ -433,287 +185,31 @@ var searchModule = function() {
     });
 
     a({
-        id:50,
-        title:"OptionType",
-        content:"OptionType",
+        id:19,
+        title:"RollType",
+        content:"RollType",
         description:'',
         tags:''
     });
 
     a({
-        id:51,
-        title:"SwapLegType",
-        content:"SwapLegType",
+        id:20,
+        title:"ConstantVolSurface",
+        content:"ConstantVolSurface",
         description:'',
         tags:''
     });
 
     a({
-        id:52,
-        title:"FrequencyExtensions",
-        content:"FrequencyExtensions",
+        id:21,
+        title:"NewtonRaphsonMultiDimensionalSolver",
+        content:"NewtonRaphsonMultiDimensionalSolver",
         description:'',
         tags:''
     });
 
     a({
-        id:53,
-        title:"CashFlow",
-        content:"CashFlow",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:54,
-        title:"AmericanPricingType",
-        content:"AmericanPricingType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:55,
-        title:"DoubleArrayFunctions",
-        content:"DoubleArrayFunctions",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:56,
-        title:"DateExtensions",
-        content:"DateExtensions",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:57,
-        title:"FxPair",
-        content:"FxPair",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:58,
-        title:"CurrenciesFromJson",
-        content:"CurrenciesFromJson",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:59,
-        title:"IrSwap",
-        content:"IrSwap",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:60,
-        title:"BinomialTree",
-        content:"BinomialTree",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:61,
-        title:"Calendar",
-        content:"Calendar",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:62,
-        title:"TenorDateAbsolute",
-        content:"TenorDateAbsolute",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:63,
-        title:"LinearInterpolatorFlatExtrap",
-        content:"LinearInterpolatorFlatExtrap",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:64,
-        title:"MTMSwapType",
-        content:"MTMSwapType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:65,
-        title:"SR",
-        content:"SR",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:66,
-        title:"SobolDirectionInfo",
-        content:"SobolDirectionInfo",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:67,
-        title:"STIRFuture",
-        content:"STIRFuture",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:68,
-        title:"ForwardRateAgreement",
-        content:"ForwardRateAgreement",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:69,
-        title:"CalendarsFromJson",
-        content:"CalendarsFromJson",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:70,
-        title:"XccyBasisSwap",
-        content:"XccyBasisSwap",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:71,
-        title:"FundingModel",
-        content:"FundingModel",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:72,
-        title:"Frequency",
-        content:"Frequency",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:73,
-        title:"DeltaType",
-        content:"DeltaType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:74,
-        title:"FxQouteType",
-        content:"FxQouteType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:75,
-        title:"RandomOptions",
-        content:"RandomOptions",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:76,
-        title:"DatePeriodType",
-        content:"DatePeriodType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:77,
-        title:"CompoundingType",
-        content:"CompoundingType",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:78,
-        title:"GenericSwapLeg",
-        content:"GenericSwapLeg",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:79,
-        title:"IFundingInstrument",
-        content:"IFundingInstrument",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:80,
-        title:"ICurrencyProvider",
-        content:"ICurrencyProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:81,
-        title:"Statistics",
-        content:"Statistics",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:82,
-        title:"FxMatrix",
-        content:"FxMatrix",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:83,
-        title:"ListedUtils",
-        content:"ListedUtils",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:84,
-        title:"DayCountBasis",
-        content:"DayCountBasis",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:85,
+        id:22,
         title:"FxForward",
         content:"FxForward",
         description:'',
@@ -721,23 +217,239 @@ var searchModule = function() {
     });
 
     a({
-        id:86,
-        title:"StubType",
-        content:"StubType",
+        id:23,
+        title:"XccyBasisSwap",
+        content:"XccyBasisSwap",
         description:'',
         tags:''
     });
 
     a({
-        id:87,
-        title:"ResetType",
-        content:"ResetType",
+        id:24,
+        title:"CalendarCollection",
+        content:"CalendarCollection",
         description:'',
         tags:''
     });
 
     a({
-        id:88,
+        id:25,
+        title:"Sobol",
+        content:"Sobol",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:26,
+        title:"FxPair",
+        content:"FxPair",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:27,
+        title:"IVolSurface",
+        content:"IVolSurface",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:28,
+        title:"OffsetRelativeToType",
+        content:"OffsetRelativeToType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:29,
+        title:"ExchangeType",
+        content:"ExchangeType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:30,
+        title:"MTMSwapType",
+        content:"MTMSwapType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:31,
+        title:"DeltaType",
+        content:"DeltaType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:32,
+        title:"FxMatrix",
+        content:"FxMatrix",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:33,
+        title:"MonthEnum",
+        content:"MonthEnum",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:34,
+        title:"FuturesConvexityUtils",
+        content:"FuturesConvexityUtils",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:35,
+        title:"MersenneTwister",
+        content:"MersenneTwister",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:36,
+        title:"ForwardRateAgreement",
+        content:"ForwardRateAgreement",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:37,
+        title:"DatePeriodType",
+        content:"DatePeriodType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:38,
+        title:"BlockSet",
+        content:"BlockSet",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:39,
+        title:"LMEFunctions",
+        content:"LMEFunctions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:40,
+        title:"Frequency",
+        content:"Frequency",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:41,
+        title:"CashFlow",
+        content:"CashFlow",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:42,
+        title:"FundingModel",
+        content:"FundingModel",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:43,
+        title:"Statistics",
+        content:"Statistics",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:44,
+        title:"AverageType",
+        content:"AverageType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:45,
+        title:"DayCountBasis",
+        content:"DayCountBasis",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:46,
+        title:"OptionType",
+        content:"OptionType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:47,
+        title:"IFundingInstrument",
+        content:"IFundingInstrument",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:48,
+        title:"ITenorDate",
+        content:"ITenorDate",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:49,
+        title:"PathBlock",
+        content:"PathBlock",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:50,
+        title:"DoubleArrayFunctions",
+        content:"DoubleArrayFunctions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:51,
+        title:"GenericSwapLeg",
+        content:"GenericSwapLeg",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:52,
         title:"SettlementType",
         content:"SettlementType",
         description:'',
@@ -745,7 +457,239 @@ var searchModule = function() {
     });
 
     a({
-        id:89,
+        id:53,
+        title:"InterpolatorFactory",
+        content:"InterpolatorFactory",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:54,
+        title:"ICurve",
+        content:"ICurve",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:55,
+        title:"LinearInterpolator",
+        content:"LinearInterpolator",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:56,
+        title:"StrikeType",
+        content:"StrikeType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:57,
+        title:"BlackFunctions",
+        content:"BlackFunctions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:58,
+        title:"SR",
+        content:"SR",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:59,
+        title:"LinearInterpolatorFlatExtrap",
+        content:"LinearInterpolatorFlatExtrap",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:60,
+        title:"IrBasisSwap",
+        content:"IrBasisSwap",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:61,
+        title:"TenorDateRelative",
+        content:"TenorDateRelative",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:62,
+        title:"GridVolSurface",
+        content:"GridVolSurface",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:63,
+        title:"ListedUtils",
+        content:"ListedUtils",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:64,
+        title:"TrinomialTree",
+        content:"TrinomialTree",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:65,
+        title:"Interpolator DType",
+        content:"Interpolator DType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:66,
+        title:"ICurrencyProvider",
+        content:"ICurrencyProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:67,
+        title:"RateType",
+        content:"RateType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:68,
+        title:"AmericanPricingType",
+        content:"AmericanPricingType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:69,
+        title:"IrCurve",
+        content:"IrCurve",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:70,
+        title:"ResetType",
+        content:"ResetType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:71,
+        title:"TenorDateAbsolute",
+        content:"TenorDateAbsolute",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:72,
+        title:"Calendar",
+        content:"Calendar",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:73,
+        title:"FrequencyExtensions",
+        content:"FrequencyExtensions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:74,
+        title:"CompoundingType",
+        content:"CompoundingType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:75,
+        title:"FraDiscountingType",
+        content:"FraDiscountingType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:76,
+        title:"SwapLegType",
+        content:"SwapLegType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:77,
+        title:"SobolDirectionNumbers",
+        content:"SobolDirectionNumbers",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:78,
+        title:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
+        content:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:79,
+        title:"RandomOptions",
+        content:"RandomOptions",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:80,
+        title:"IInterpolator",
+        content:"IInterpolator",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:81,
+        title:"FlowType",
+        content:"FlowType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:82,
         title:"CdsScheduleType",
         content:"CdsScheduleType",
         description:'',
@@ -753,454 +697,72 @@ var searchModule = function() {
     });
 
     a({
+        id:83,
+        title:"OptionType",
+        content:"OptionType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:84,
+        title:"CashFlowSchedule",
+        content:"CashFlowSchedule",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:85,
+        title:"StubType",
+        content:"StubType",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:86,
+        title:"CurrenciesFromJson",
+        content:"CurrenciesFromJson",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:87,
+        title:"STIRFuture",
+        content:"STIRFuture",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:88,
+        title:"LinearInVarianceInterpolator",
+        content:"LinearInVarianceInterpolator",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:89,
+        title:"SwapPayReceiveType",
+        content:"SwapPayReceiveType",
+        description:'',
+        tags:''
+    });
+
+    a({
         id:90,
-        title:"TenorDateRelative",
-        content:"TenorDateRelative",
+        title:"BinomialTree",
+        content:"BinomialTree",
         description:'',
         tags:''
     });
 
     y({
-        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian',
-        title:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Curves/ICurve',
-        title:"ICurve",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/StrikeType',
-        title:"StrikeType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/TrinomialTree',
-        title:"TrinomialTree",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/BlackFunctions',
-        title:"BlackFunctions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/Currency',
-        title:"Currency",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/OffsetRelativeToType',
-        title:"OffsetRelativeToType",
-        description:""
-    });
-
-    y({
         url:'/api/Qwack.Math.Solvers/Halley1d',
         title:"Halley1d",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/LMEFunctions',
-        title:"LMEFunctions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/CalendarCollection',
-        title:"CalendarCollection",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/FundingInstrumentCollection',
-        title:"FundingInstrumentCollection",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/OptionType',
-        title:"OptionType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Paths/BlockSet',
-        title:"BlockSet",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Random.Sobol/SobolDirectionNumbers',
-        title:"SobolDirectionNumbers",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolver',
-        title:"NewtonRaphsonMultiCurveSolver",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Solvers/Brent',
-        title:"Brent",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Utils.Exceptions/ExceptionType',
-        title:"ExceptionType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/AtmVolType',
-        title:"AtmVolType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/Interpolator1DType',
-        title:"Interpolator1DType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/LinearInterpolator',
-        title:"LinearInterpolator",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/ITenorDate',
-        title:"ITenorDate",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/IInterpolator1D',
-        title:"IInterpolator1D",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/AverageType',
-        title:"AverageType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/RollType',
-        title:"RollType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/FloatRateIndex',
-        title:"FloatRateIndex",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/LinearInterpolatorFlatExtrapNoBinSearch',
-        title:"LinearInterpolatorFlatExtrapNoBinSearch",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/LinearInVarianceInterpolator',
-        title:"LinearInVarianceInterpolator",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options.VolSurfaces/GridVolSurface',
-        title:"GridVolSurface",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolverStaged',
-        title:"NewtonRaphsonMultiCurveSolverStaged",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/IrBasisSwap',
-        title:"IrBasisSwap",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/InterpolatorFactory',
-        title:"InterpolatorFactory",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Random.MersenneTwister/MersenneTwister64',
-        title:"MersenneTwister64",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Curves/IrCurve',
-        title:"IrCurve",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Solvers/Newton1d',
-        title:"Newton1d",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/RateType',
-        title:"RateType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options.VolSurfaces/ConstantVolSurface',
-        title:"ConstantVolSurface",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/ExchangeType',
-        title:"ExchangeType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Random.Sobol/Sobol',
-        title:"Sobol",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Paths/PathBlock',
-        title:"PathBlock",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Utils/FuturesConvexityUtils',
-        title:"FuturesConvexityUtils",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/MonthEnum',
-        title:"MonthEnum",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/SwapPayReceiveType',
-        title:"SwapPayReceiveType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Extensions/DoubleExtensions',
-        title:"DoubleExtensions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/FlowType',
-        title:"FlowType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments/CashFlowSchedule',
-        title:"CashFlowSchedule",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options.VolSurfaces/IVolSurface',
-        title:"IVolSurface",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/FraDiscountingType',
-        title:"FraDiscountingType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Solvers/NewtonRaphsonMultiDimensionalSolver',
-        title:"NewtonRaphsonMultiDimensionalSolver",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/ICalendarProvider',
-        title:"ICalendarProvider",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Utils.Exceptions/ExceptionHelper',
-        title:"ExceptionHelper",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/OptionType',
-        title:"OptionType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/SwapLegType',
-        title:"SwapLegType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/FrequencyExtensions',
-        title:"FrequencyExtensions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments/CashFlow',
-        title:"CashFlow",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/AmericanPricingType',
-        title:"AmericanPricingType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Matrix/DoubleArrayFunctions',
-        title:"DoubleArrayFunctions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/DateExtensions',
-        title:"DateExtensions",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/FxPair',
-        title:"FxPair",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Providers.Json/CurrenciesFromJson',
-        title:"CurrenciesFromJson",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/IrSwap',
-        title:"IrSwap",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Options/BinomialTree',
-        title:"BinomialTree",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/Calendar',
-        title:"Calendar",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/TenorDateAbsolute',
-        title:"TenorDateAbsolute",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Math.Interpolation/LinearInterpolatorFlatExtrap',
-        title:"LinearInterpolatorFlatExtrap",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/MTMSwapType',
-        title:"MTMSwapType",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Utils.Exceptions/SR',
-        title:"SR",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Random.Sobol/SobolDirectionInfo',
-        title:"SobolDirectionInfo",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/STIRFuture',
-        title:"STIRFuture",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/ForwardRateAgreement',
-        title:"ForwardRateAgreement",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Json.Providers/CalendarsFromJson',
-        title:"CalendarsFromJson",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Instruments.Funding/XccyBasisSwap',
-        title:"XccyBasisSwap",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Models/FundingModel',
-        title:"FundingModel",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Dates/Frequency',
-        title:"Frequency",
-        description:""
-    });
-
-    y({
-        url:'/api/Qwack.Core.Basic/DeltaType',
-        title:"DeltaType",
         description:""
     });
 
@@ -1211,62 +773,122 @@ var searchModule = function() {
     });
 
     y({
-        url:'/api/Qwack.Random/RandomOptions',
-        title:"RandomOptions",
+        url:'/api/Qwack.Core.Basic/Currency',
+        title:"Currency",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Dates/DatePeriodType',
-        title:"DatePeriodType",
+        url:'/api/Qwack.Math.Solvers/Brent',
+        title:"Brent",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Basic/CompoundingType',
-        title:"CompoundingType",
+        url:'/api/Qwack.Core.Instruments.Funding/FloatRateIndex',
+        title:"FloatRateIndex",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Instruments.Funding/GenericSwapLeg',
-        title:"GenericSwapLeg",
+        url:'/api/Qwack.Dates/ICalendarProvider',
+        title:"ICalendarProvider",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Instruments/IFundingInstrument',
-        title:"IFundingInstrument",
+        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolverStaged',
+        title:"NewtonRaphsonMultiCurveSolverStaged",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Basic/ICurrencyProvider',
-        title:"ICurrencyProvider",
+        url:'/api/Qwack.Math.Interpolation/LinearInterpolatorFlatExtrapNoBinSearch',
+        title:"LinearInterpolatorFlatExtrapNoBinSearch",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Math/Statistics',
-        title:"Statistics",
+        url:'/api/Qwack.Core.Instruments.Funding/FundingInstrumentCollection',
+        title:"FundingInstrumentCollection",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Models/FxMatrix',
-        title:"FxMatrix",
+        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolver',
+        title:"NewtonRaphsonMultiCurveSolver",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Dates/ListedUtils',
-        title:"ListedUtils",
+        url:'/api/Qwack.Math.Extensions/DoubleExtensions',
+        title:"DoubleExtensions",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Dates/DayCountBasis',
-        title:"DayCountBasis",
+        url:'/api/Qwack.Random.Sobol/SobolDirectionInfo',
+        title:"SobolDirectionInfo",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Solvers/Newton1d',
+        title:"Newton1d",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/DateExtensions',
+        title:"DateExtensions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Utils.Exceptions/ExceptionType',
+        title:"ExceptionType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments.Funding/IrSwap',
+        title:"IrSwap",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Json.Providers/CalendarsFromJson',
+        title:"CalendarsFromJson",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/AtmVolType',
+        title:"AtmVolType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Utils.Exceptions/ExceptionHelper',
+        title:"ExceptionHelper",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/RollType',
+        title:"RollType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options.VolSurfaces/ConstantVolSurface',
+        title:"ConstantVolSurface",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Solvers/NewtonRaphsonMultiDimensionalSolver',
+        title:"NewtonRaphsonMultiDimensionalSolver",
         description:""
     });
 
@@ -1277,14 +899,176 @@ var searchModule = function() {
     });
 
     y({
-        url:'/api/Qwack.Core.Basic/StubType',
-        title:"StubType",
+        url:'/api/Qwack.Core.Instruments.Funding/XccyBasisSwap',
+        title:"XccyBasisSwap",
         description:""
     });
 
     y({
-        url:'/api/Qwack.Core.Basic/ResetType',
-        title:"ResetType",
+        url:'/api/Qwack.Dates/CalendarCollection',
+        title:"CalendarCollection",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Random.Sobol/Sobol',
+        title:"Sobol",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/FxPair',
+        title:"FxPair",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options.VolSurfaces/IVolSurface',
+        title:"IVolSurface",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/OffsetRelativeToType',
+        title:"OffsetRelativeToType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/ExchangeType',
+        title:"ExchangeType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/MTMSwapType',
+        title:"MTMSwapType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/DeltaType',
+        title:"DeltaType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Models/FxMatrix',
+        title:"FxMatrix",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/MonthEnum',
+        title:"MonthEnum",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Utils/FuturesConvexityUtils',
+        title:"FuturesConvexityUtils",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Random.MersenneTwister/MersenneTwister64',
+        title:"MersenneTwister64",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments.Funding/ForwardRateAgreement',
+        title:"ForwardRateAgreement",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/DatePeriodType',
+        title:"DatePeriodType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Paths/BlockSet',
+        title:"BlockSet",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/LMEFunctions',
+        title:"LMEFunctions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/Frequency',
+        title:"Frequency",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments/CashFlow',
+        title:"CashFlow",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Models/FundingModel',
+        title:"FundingModel",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math/Statistics',
+        title:"Statistics",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/AverageType',
+        title:"AverageType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/DayCountBasis',
+        title:"DayCountBasis",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/OptionType',
+        title:"OptionType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments/IFundingInstrument',
+        title:"IFundingInstrument",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/ITenorDate',
+        title:"ITenorDate",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Paths/PathBlock',
+        title:"PathBlock",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Matrix/DoubleArrayFunctions',
+        title:"DoubleArrayFunctions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments.Funding/GenericSwapLeg',
+        title:"GenericSwapLeg",
         description:""
     });
 
@@ -1295,14 +1079,230 @@ var searchModule = function() {
     });
 
     y({
-        url:'/api/Qwack.Core.Basic/CdsScheduleType',
-        title:"CdsScheduleType",
+        url:'/api/Qwack.Math.Interpolation/InterpolatorFactory',
+        title:"InterpolatorFactory",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Curves/ICurve',
+        title:"ICurve",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Interpolation/LinearInterpolator',
+        title:"LinearInterpolator",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/StrikeType',
+        title:"StrikeType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/BlackFunctions',
+        title:"BlackFunctions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Utils.Exceptions/SR',
+        title:"SR",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Interpolation/LinearInterpolatorFlatExtrap',
+        title:"LinearInterpolatorFlatExtrap",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments.Funding/IrBasisSwap',
+        title:"IrBasisSwap",
         description:""
     });
 
     y({
         url:'/api/Qwack.Dates/TenorDateRelative',
         title:"TenorDateRelative",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options.VolSurfaces/GridVolSurface',
+        title:"GridVolSurface",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/ListedUtils',
+        title:"ListedUtils",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/TrinomialTree',
+        title:"TrinomialTree",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Interpolation/Interpolator1DType',
+        title:"Interpolator1DType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/ICurrencyProvider',
+        title:"ICurrencyProvider",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/RateType',
+        title:"RateType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/AmericanPricingType',
+        title:"AmericanPricingType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Curves/IrCurve',
+        title:"IrCurve",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/ResetType',
+        title:"ResetType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/TenorDateAbsolute',
+        title:"TenorDateAbsolute",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/Calendar',
+        title:"Calendar",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Dates/FrequencyExtensions',
+        title:"FrequencyExtensions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/CompoundingType',
+        title:"CompoundingType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/FraDiscountingType',
+        title:"FraDiscountingType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/SwapLegType',
+        title:"SwapLegType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Random.Sobol/SobolDirectionNumbers',
+        title:"SobolDirectionNumbers",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Calibrators/NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian',
+        title:"NewtonRaphsonMultiCurveSolverStagedWithAnalyticJacobian",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Random/RandomOptions',
+        title:"RandomOptions",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Interpolation/IInterpolator1D',
+        title:"IInterpolator1D",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/FlowType',
+        title:"FlowType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/CdsScheduleType',
+        title:"CdsScheduleType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/OptionType',
+        title:"OptionType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments/CashFlowSchedule',
+        title:"CashFlowSchedule",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/StubType',
+        title:"StubType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Providers.Json/CurrenciesFromJson',
+        title:"CurrenciesFromJson",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Instruments.Funding/STIRFuture',
+        title:"STIRFuture",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Math.Interpolation/LinearInVarianceInterpolator',
+        title:"LinearInVarianceInterpolator",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Core.Basic/SwapPayReceiveType',
+        title:"SwapPayReceiveType",
+        description:""
+    });
+
+    y({
+        url:'/api/Qwack.Options/BinomialTree',
+        title:"BinomialTree",
         description:""
     });
 
