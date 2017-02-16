@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
-        <title>Docs - API - Calendar Class</title>
+        <title>Docs - API - PathEngine Class</title>
         <link href="/assets/css/mermaid.css" rel="stylesheet">
         <link href="/assets/css/highlight.css" rel="stylesheet">
         <link href="/assets/css/bootstrap/bootstrap.css" rel="stylesheet">
@@ -79,7 +79,6 @@
                     	
 	<div id="infobar-headings"><h6>On This Page</h6><p><a href="#Syntax">Syntax</a></p>
 <p><a href="#Constructors">Constructors</a></p>
-<p><a href="#Properties">Properties</a></p>
 <p><a href="#Methods">Methods</a></p>
 <hr class="infobar-hidden">
 </div>
@@ -132,26 +131,14 @@
                     <ul class="sidebar-menu">
                         
 			<li class="header">Namespace</li>
-		<li><a href="/api/Qwack.Dates">Qwack<wbr>.Dates</a></li>
+		<li><a href="/api/Qwack.Paths">Qwack<wbr>.Paths</a></li>
 		<li role="separator" class="divider"></li>
-			<li class="header">Struct Types</li>
-				<li><a href="/api/Qwack.Dates/Frequency">Frequency</a></li>
-			<li class="header">Enum Types</li>
-				<li><a href="/api/Qwack.Dates/DatePeriodType">DatePeriodType</a></li>
-				<li><a href="/api/Qwack.Dates/DayCountBasis">DayCountBasis</a></li>
-				<li><a href="/api/Qwack.Dates/MonthEnum">MonthEnum</a></li>
-				<li><a href="/api/Qwack.Dates/RollType">RollType</a></li>
 			<li class="header">Interface Types</li>
-				<li><a href="/api/Qwack.Dates/ICalendarProvider">ICalendarProvider</a></li>
-				<li><a href="/api/Qwack.Dates/ITenorDate">ITenorDate</a></li>
+				<li><a href="/api/Qwack.Paths/IPathProcess">IPathProcess</a></li>
 			<li class="header">Class Types</li>
-				<li class="selected"><a href="/api/Qwack.Dates/Calendar">Calendar</a></li>
-				<li><a href="/api/Qwack.Dates/CalendarCollection">CalendarCollection</a></li>
-				<li><a href="/api/Qwack.Dates/DateExtensions">DateExtensions</a></li>
-				<li><a href="/api/Qwack.Dates/FrequencyExtensions">FrequencyExtensions</a></li>
-				<li><a href="/api/Qwack.Dates/ListedUtils">ListedUtils</a></li>
-				<li><a href="/api/Qwack.Dates/TenorDateAbsolute">TenorDateAbsolute</a></li>
-				<li><a href="/api/Qwack.Dates/TenorDateRelative">TenorDateRelative</a></li>
+				<li><a href="/api/Qwack.Paths/BlockSet">BlockSet</a></li>
+				<li><a href="/api/Qwack.Paths/PathBlock">PathBlock</a></li>
+				<li class="selected"><a href="/api/Qwack.Paths/PathEngine">PathEngine</a></li>
 
 
                     </ul>
@@ -165,7 +152,7 @@
 
 
 <section class="content-header">
-	<h1>Calendar <small>Class</small></h1>
+	<h1>PathEngine <small>Class</small></h1>
 </section>
 <section class="content">
 	
@@ -178,7 +165,7 @@
 						<dl class="dl-horizontal">		
 
 								<dt>Namespace</dt>
-								<dd><a href="/api/Qwack.Dates">Qwack<wbr>.Dates</a></dd>
+								<dd><a href="/api/Qwack.Paths">Qwack<wbr>.Paths</a></dd>
 											
 							
 								<dt>Base Types</dt>
@@ -195,7 +182,7 @@
 						<div class="mermaid">
 							graph TD
 	Base0["object"]--&gt;Type
-	Type["Calendar"]
+	Type["PathEngine"]
 class Type type-node
 
 						</div>
@@ -205,7 +192,7 @@ class Type type-node
 		</div>
 
 	<h1 id="Syntax">Syntax</h1>
-	<pre><code>public class Calendar</code></pre>
+	<pre><code>public class PathEngine</code></pre>
 
 
 
@@ -223,7 +210,7 @@ class Type type-node
 							</tr>
 						</thead>
 							<tbody><tr>
-								<td><a href="/api/Qwack.Dates/Calendar/830F4767">Calendar<wbr>()<wbr></a></td>
+								<td><a href="/api/Qwack.Paths/PathEngine/339D6949">PathEngine<wbr>(int)<wbr></a></td>
 									<td></td>
 							</tr>
 					</tbody></table>
@@ -233,63 +220,6 @@ class Type type-node
 
 
 
-			<h1 id="Properties">Properties</h1>
-			<div class="box">
-				<div class="box-body no-padding table-responsive">
-					<table class="table table-striped table-hover three-cols">
-						<thead>
-							<tr>
-								<th>Name</th>
-								<th>Value</th>
-								<th>Summary</th>
-							</tr>
-						</thead>
-							<tbody><tr>
-								<td><a href="/api/Qwack.Dates/Calendar/BF3D748B">DaysToAlwaysExclude</a></td>
-								<td>List<wbr>&lt;DayOfWeek&gt;<wbr></td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/1DC59EEA">DaysToExclude</a></td>
-								<td>HashSet<wbr>&lt;DateTime&gt;<wbr></td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/3E275253">InheritedCalendars</a></td>
-								<td>List<wbr>&lt;string&gt;<wbr></td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/22BDD68F">IsMerged</a></td>
-								<td>bool</td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/FFE1C8B9">MonthsToExclude</a></td>
-								<td>List<wbr>&lt;MonthEnum&gt;<wbr></td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/A28909B7">Name</a></td>
-								<td>string</td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-					</tbody></table>
-				</div>
-			</div>
-		
 
 			<h1 id="Methods">Methods</h1>
 			<div class="box">
@@ -303,15 +233,8 @@ class Type type-node
 							</tr>
 						</thead>
 							<tbody><tr>
-								<td><a href="/api/Qwack.Dates/Calendar/8F90AD2C">Clone<wbr>()<wbr></a></td>
-								<td><a href="/api/Qwack.Dates/Calendar">Calendar</a></td>
-								<td>
-									<div></div>
-								</td>
-							</tr>
-							<tr>
-								<td><a href="/api/Qwack.Dates/Calendar/C84A41CA">IsHoliday<wbr>(DateTime)<wbr></a></td>
-								<td>bool</td>
+								<td><a href="/api/Qwack.Paths/PathEngine/6DA05A83">AddPathProcess<wbr>(IPathProcess)<wbr></a></td>
+								<td>void</td>
 								<td>
 									<div></div>
 								</td>
